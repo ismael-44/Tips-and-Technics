@@ -1,4 +1,4 @@
-# Password Fortification
+# How I secure my Passwords
 
 ## Introduction
 Ensuring the security of our passwords is crucial for safeguarding our online data. In this markdown file, we will explore the process of fortifying passwords and discuss best practices for maintaining secure accounts.
